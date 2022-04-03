@@ -11,19 +11,19 @@ Users can also select from the layers: Earthquakes, Tectonic Plates, Major Earth
 # Results:
 ##  The overlays and controls:
 
-![Pic 1](https://github.com/Akotovets1/Mapping_Earthquakes/tree/main/Earthquake_Challenge/The_overlays_and_controls.png)
+![Pic 1](https://github.com/Akotovets1/Mapping_Earthquakes/blob/main/Earthquake_Challenge/The_overlays_and_controls.png)
 
 ## Streets layer with all earthquake toggles:
 
-![Pic 2](https://github.com/Akotovets1/Mapping_Earthquakes/tree/main/Earthquake_Challenge/Streets.png)
+![Pic 2](https://github.com/Akotovets1/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Streets.png)
 
 
 ## Satellite layer with major earthquakes:
 
-![Pic 3](https://github.com/Akotovets1/Mapping_Earthquakes/tree/main/Earthquake_Challenge/Satellite.png)
+![Pic 3](https://github.com/Akotovets1/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Satellite.png)
 
 
 ## A light map layer with major earthquakes and tectonic plates:
 
-![Pic 4](https://github.com/Akotovets1/Mapping_Earthquakes/tree/main/Earthquake_Challenge/light.png)
+![Pic 4](https://github.com/Akotovets1/Mapping_Earthquakes/blob/main/Earthquake_Challenge/light.png)
 
